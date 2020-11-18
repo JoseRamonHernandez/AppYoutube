@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AppYoutube"
+    }
+  },
+  "defaultProject": "AppYoutube",
+  "cli": {
+    "analytics": false
+  }
 }
